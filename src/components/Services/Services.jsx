@@ -22,7 +22,7 @@ function Services() {
         Marketing
       </Link>
 
-      <div>
+      <div style={{ padding: '10px' }}>
         <Outlet />
       </div>
     </>
